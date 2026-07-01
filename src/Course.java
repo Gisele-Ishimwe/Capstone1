@@ -44,4 +44,5 @@ public class Course {
                 "\nTitle: " + title +
                 "\nCredits: " + credits;
     }
+    System.out.println("Course module feature working");
 }
