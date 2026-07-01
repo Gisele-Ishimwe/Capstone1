@@ -11,5 +11,6 @@ public class UndergraduateStudent extends Student {
     @Override
     public double calculateGPA() {
         return 3.2;
+
     }
 }
