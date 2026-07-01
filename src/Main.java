@@ -141,4 +141,5 @@ public class Main {
             System.out.println("System Error: " + e.getMessage());
         }
     }
+    System.out.println("Enrollment version A");
 }
